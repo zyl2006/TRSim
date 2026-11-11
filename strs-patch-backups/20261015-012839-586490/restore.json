@@ -1,0 +1,9 @@
+{
+  "lib": "D:\\sstrs\\lib",
+  "version": "3.0.0",
+  "files": {
+    "comm50.jar": "c405be44bf7e4a5ac3c6059c886170aa0206dcb6ed092844fe6234a11f1698b4",
+    "refund50.jar": "ecb3b0de419825eba926c02f959b115acb6347ea695069a9789e8511dbae5968",
+    "sale50.jar": "79fa20b1296fffc4b3824bb08847ad990ba852a3507bafee8cf7309d62c64c66"
+  }
+}
